@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @Hgithubacct
+- 👋 Hi, I’m @Hgithubacct 
+- Developer of customizable AI and automation systems.
 -Main developer, maintainer and contributer to: https://pypi.org/project/dfcx-scrapi/
 - 👀 I’m interested in machine learning, automation and big data.
 - 🌱 I’m currently learning web frameworks for human in the loop/feedback machine learning systems.
